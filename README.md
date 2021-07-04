@@ -4,12 +4,14 @@
 <!--
 [![Portfolio Badge](https://img.shields.io/badge/-kunalraghav.github.io-orange?style=flat-square&logo=html5&logoColor=white&link=https://kunalraghav.github.io)](https://kunalraghav.github.io)
 -->
+<br> 
+Full Stack Developer, apasionado por las tecnologías digitales y su impacto en la educación.
+<br> <br>
+Después de experiencias en tecnología educativa y trabajando de cerca con plataformas digitales, encontré en la tecnología un campo donde desarrollarme.
+<br> <br> <br> <br>
+Contacto
 <br>
-Soy Full Stack Developer, apasionado por las tecnologías digitales y su impacto en la educación.
-<br> <br>
-Luego de experiencias en tecnología educativa, trabajando de cerca con desarrolladores y emprendedores, encontré en la tecnología un campo donde desarrollarme.
-<br> <br>
-Podés escribirme a diegolanesan@gmail.com
+diegolanesan@gmail.com
 <br> <br>
 
 <h3>Tecnologías </h3>
