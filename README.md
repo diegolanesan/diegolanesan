@@ -1,22 +1,20 @@
-## Hola! soy Diego :raising_hand_man:	
-  
+## Hola! 👋
 
 <!--
 [![Portfolio Badge](https://img.shields.io/badge/-kunalraghav.github.io-orange?style=flat-square&logo=html5&logoColor=white&link=https://kunalraghav.github.io)](https://kunalraghav.github.io)
 -->
 
-Full Stack Developer, apasionado por las tecnologías digitales y su impacto en la educación.
-<br> </br> 
+Soy Diego, Full Stack Developer.
+
+- :fire: Apasionado por las tecnologías digitales y su impacto en la educación.
+- 🚀 Disfruto trabajando con tecnologías frontend, como React y Redux.
+- :nerd_face: Entusiasta del mundo cripto y la web3. 
 
 ## Tecnologías 
-- JavaScript
-- React
-- Redux
+- JavaScript, React, Redux
+- Express, Python
 - CSS, Bootstrap y TailwindCSS
-- Express 
-- Sequelize 
-- SQL
-- Python
+- Sequelize, SQL
 - Git
 
 ## Contacto
