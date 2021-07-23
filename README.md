@@ -1,23 +1,23 @@
-## Hola! 👋
+## Hi! 👋
 
 <!--
 [![Portfolio Badge](https://img.shields.io/badge/-kunalraghav.github.io-orange?style=flat-square&logo=html5&logoColor=white&link=https://kunalraghav.github.io)](https://kunalraghav.github.io)
 -->
 
-Soy Diego, fullstack developer.
+I'm Diego, a fullstack developer.
 
-- :fire: Apasionado por las tecnologías digitales y su impacto en la educación.
-- 🚀 Disfruto trabajando con tecnologías frontend, como React y Redux.
-- :nerd_face: Entusiasta del mundo cripto y la web3. 
-
-## Tecnologías 
+- :fire: Passionate about digital technologies and their impact on education.
+- 🚀 I enjoy working with frontend technologies.
+- :nerd_face: Enthusiast of the crypto ecosystem and the web3.
+- 
+## Technologies 
 - JavaScript, React, Redux
 - Express, Python
 - CSS, Bootstrap y TailwindCSS
 - Sequelize, SQL
 - Git
 
-## Contacto
+## Contact
 - [LinkedIn](linkedin.com/in/diegolanesan/)
 - diegolanesan@gmail.com
 
