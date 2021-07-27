@@ -9,7 +9,7 @@ I'm Diego, a fullstack developer.
 - :fire: Passionate about digital technologies and their impact on education.
 - 🚀 I enjoy working with frontend technologies.
 - :nerd_face: Enthusiast of the crypto ecosystem and the web3.
-- 
+
 ## Technologies 
 - JavaScript, React, Redux
 - Express, Python
