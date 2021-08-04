@@ -13,8 +13,8 @@ I'm Diego, a fullstack developer.
 ## Technologies 
 - JavaScript, React, Redux
 - Express, Python
-- CSS, Bootstrap y TailwindCSS
-- Sequelize, SQL
+- CSS, Bootstrap and TailwindCSS
+- Sequelize, PostgreSQL
 - Git
 
 ## Contact
