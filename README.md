@@ -12,7 +12,7 @@ I'm Diego, a fullstack developer.
 
 ## Technologies 
 - JavaScript, React, Redux
-- Express, Python
+- Express.js, Python
 - CSS, TailwindCSS, ChakraUI, among others component libraries
 - Relational (PostgreSQL) and non-relational databases (MongoDB)
 
