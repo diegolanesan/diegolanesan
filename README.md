@@ -13,9 +13,8 @@ I'm Diego, a fullstack developer.
 ## Technologies 
 - JavaScript, React, Redux
 - Express, Python
-- CSS, Bootstrap and TailwindCSS
-- Sequelize, PostgreSQL
-- Git
+- CSS, TailwindCSS, ChakraUI, among others component libraries
+- Relational (PostgreSQL) and non-relational databases (MongoDB)
 
 ## Contact
 - [LinkedIn](linkedin.com/in/diegolanesan/)
