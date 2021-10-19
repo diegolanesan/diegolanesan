@@ -11,8 +11,8 @@ I'm Diego, a fullstack developer.
 - :nerd_face: Enthusiast of the crypto ecosystem and the web3.
 
 ## Technologies 
-- JavaScript, React, Redux
-- Express.js, Python
+- JavaScript, Next.js, React, Redux
+- Express.js
 - CSS, TailwindCSS, ChakraUI, among others component libraries
 - Relational (PostgreSQL) and non-relational databases (MongoDB)
 
